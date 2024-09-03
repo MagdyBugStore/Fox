@@ -1,0 +1,17 @@
+{
+    "name": "myvendor/fox",
+    "autoload": {
+        "psr-4": {
+            "Myvendor\\Fox\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed magdy",
+            "email": "45017562+MagdyBugStore@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "1.20"
+    }
+}
